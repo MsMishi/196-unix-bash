@@ -1,6 +1,6 @@
 #Chapter 1.4
 #Exercise 1: Using the up awrrow, print to the screen the strings,"fee", "fie", "foe", "fum" without retyping echo each time.
-echo "fee"
+$ echo "fee"
  ↑"fie"
  ↑"foe"
  ↑"fum"
