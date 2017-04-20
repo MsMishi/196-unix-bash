@@ -1,6 +1,6 @@
 #Chapter 1.6:
 #Exercise 1: Write a command to print the string Use "man echo" instead.
-echo 'Use "man echo"'
+$ echo 'Use "man echo"'
 
 #Exercise 2: By running man sleep, figure out how to make the terminal "sleep" for 5 seconds, and execute the command to do so.
 sleep 5
