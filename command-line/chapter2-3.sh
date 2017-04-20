@@ -10,4 +10,5 @@ $ cat foo.txt > baz.txt
 #Exercise 3: Create a file called quux.txt containing the contents of foo.txt followed by the contents of bar.txt
 $ cat foo.txt bar.txt > quux.txt
 
-#Exercise 4: How do rm nonexistent and rm -f nonexistent differ for a nonexistent file?
+#Exercise 4: How do rm nonexistent and rm -f non-existent differ for a non-existent file?
+The -f option only masks attempts to remove non-existent files instead of masking a large variety of errors.
